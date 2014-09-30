@@ -1,0 +1,22 @@
+{
+  "name": "kage-test",
+  "version": "1.0.0",
+  "description": "kage-test",
+  "main": "kage-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hakatashi/kage-test.git"
+  },
+  "author": "hakatashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hakatashi/kage-test/issues"
+  },
+  "homepage": "https://github.com/hakatashi/kage-test",
+  "dependencies": {
+    "paper": "^0.9.20"
+  }
+}
