@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hakatashi/kage-test",
   "dependencies": {
-    "paper": "^0.9.20"
+    "paper": "^0.9.20",
+    "xml2js": "^0.4.4"
   }
 }
